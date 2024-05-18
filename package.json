@@ -3,7 +3,6 @@
   "title": "cleave-zen",
   "description": "WIP",
   "version": "0.0.17",
-  "private": true,
   "type": "module",
   "author": "Max Huang <risonhuang@gmail.com>",
   "license": "MIT",
