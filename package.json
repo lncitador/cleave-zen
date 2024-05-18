@@ -1,8 +1,9 @@
 {
-  "name": "cleave-zen",
+  "name": "@izzyjs/cleave-zen",
   "title": "cleave-zen",
   "description": "WIP",
   "version": "0.0.17",
+  "type": "module",
   "author": "Max Huang <risonhuang@gmail.com>",
   "license": "MIT",
   "repository": {
@@ -18,7 +19,7 @@
     ".": {
       "types": "./dist/index.d.ts",
       "import": "./dist/cleave-zen.module.js",
-      "require": "./dist/cleave-zen.js"
+      "require": "./dist/cleave-zen.cjs"
     }
   },
   "main": "./dist/cleave-zen.js",
