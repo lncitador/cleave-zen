@@ -1,4 +1,4 @@
-[cleave-zen](../README.md) / [Exports](../modules.md) / FormatCreditCardOptions
+[@izzyjs/cleave-zen](../README.md) / [Exports](../modules.md) / FormatCreditCardOptions
 
 # Interface: FormatCreditCardOptions
 
@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[credit-card/types.ts:24](https://github.com/nosir/cleave-zen/blob/f242cfd/src/credit-card/types.ts#L24)
+[credit-card/types.ts:24](https://github.com/lncitador/cleave-zen/blob/22b1d89ca47c4c733e22218ec1a545c80bf43b57/src/credit-card/types.ts#L24)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[credit-card/types.ts:26](https://github.com/nosir/cleave-zen/blob/f242cfd/src/credit-card/types.ts#L26)
+[credit-card/types.ts:26](https://github.com/lncitador/cleave-zen/blob/22b1d89ca47c4c733e22218ec1a545c80bf43b57/src/credit-card/types.ts#L26)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[credit-card/types.ts:25](https://github.com/nosir/cleave-zen/blob/f242cfd/src/credit-card/types.ts#L25)
+[credit-card/types.ts:25](https://github.com/lncitador/cleave-zen/blob/22b1d89ca47c4c733e22218ec1a545c80bf43b57/src/credit-card/types.ts#L25)
